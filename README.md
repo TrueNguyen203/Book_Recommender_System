@@ -13,10 +13,10 @@ This is one of my project in university. The goal of this project is to make a r
 
 ## Data source
 The data a public dataset on hugging face which you can find in this link </br>
-[https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata](Kaggle 7K Books Datasets)
+[Kaggle 7K Books Datasets](https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata)
 
 ## How to run the code:
-1. Download Ollama at: [https://ollama.com/](link)
+1. Download Ollama at: [https://ollama.com/](https://ollama.com/)
 2. In the CLI: </br>
 `ollama pull llama3.2` </br>
 `python -m venv venv_name` </br>
